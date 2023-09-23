@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IntegerCalculatorTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2023-09-23T14:11:17" hostname="alicia-nitro" time="0.21">
+  <properties/>
+  <testcase name="#subtraction &gt; When the one the first number is positive and the second is negative &gt; Return a positive number" classname="IntegerCalculatorTest" time="0.055"/>
+  <testcase name="#subtraction &gt; When the both numbers are positive and the first is greater than the second &gt; Return a positive number" classname="IntegerCalculatorTest" time="0.003"/>
+  <testcase name="addWhenOneNumberIsNegativeAndTheAnotherIsZeroReturnTheGivenNumber()" classname="IntegerCalculatorTest" time="0.01"/>
+  <testcase name="#divide&gt; When one number is negative &gt; Return a negative number" classname="IntegerCalculatorTest" time="0.004"/>
+  <testcase name="#divide &gt; When the divider is zero &gt; Throw an exception" classname="IntegerCalculatorTest" time="0.006"/>
+  <testcase name="#divide&gt; When the divider is one &gt; Return the dividend" classname="IntegerCalculatorTest" time="0.003"/>
+  <testcase name="#divide&gt; When both numbers are negative &gt; Return a positive number" classname="IntegerCalculatorTest" time="0.003"/>
+  <testcase name="addWhenBothNumbersAreNegativeReturnANegativeNumber()" classname="IntegerCalculatorTest" time="0.003"/>
+  <testcase name="#subtraction &gt; When the both numbers are positive and the first is smaller than the second &gt; Return a negative number" classname="IntegerCalculatorTest" time="0.003"/>
+  <testcase name="#subtraction &gt; When the both numbers are negative and the first number is greater than the second &gt; Return a negative number" classname="IntegerCalculatorTest" time="0.005"/>
+  <testcase name="#multiply &gt; When the one of the numbers is negative &gt; Return a negative number" classname="IntegerCalculatorTest" time="0.006"/>
+  <testcase name="#multiply &gt; When the one of the numbers is zero &gt; Return zero" classname="IntegerCalculatorTest" time="0.003"/>
+  <testcase name="#multiply &gt; When the one of the numbers is one &gt; Return the given number" classname="IntegerCalculatorTest" time="0.004"/>
+  <testcase name="#multiply &gt; When the both numbers are positive &gt; Return a positive number" classname="IntegerCalculatorTest" time="0.004"/>
+  <testcase name="addWhenOneNumberIsPositiveAndTheAnotherIsNegativeReturnANegativeNumber()" classname="IntegerCalculatorTest" time="0.002"/>
+  <testcase name="#subtraction &gt; When the first number is negative and the second is positive &gt; Return a negative number" classname="IntegerCalculatorTest" time="0.003"/>
+  <testcase name="#divide&gt; When one both numbers are positive &gt; Return a positive number" classname="IntegerCalculatorTest" time="0.002"/>
+  <testcase name="addWhenOneNumberIsPositiveAndTheAnotherIsNegativeReturnAPositiveNumber()" classname="IntegerCalculatorTest" time="0.002"/>
+  <testcase name="addWhenOneNumberIsZeroReturnTheGivenNumber()" classname="IntegerCalculatorTest" time="0.003"/>
+  <testcase name="#subtraction &gt; When the both numbers are negative and the first number is smaller than the second &gt; Return a positive number" classname="IntegerCalculatorTest" time="0.002"/>
+  <testcase name="#multiply &gt; When the both numbers is negative &gt; Return a positive number" classname="IntegerCalculatorTest" time="0.003"/>
+  <testcase name="#add &gt; When both numbers are positive &gt; Return a positive number" classname="IntegerCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
