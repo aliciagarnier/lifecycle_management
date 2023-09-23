@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="service.ChoreServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-22T19:00:22" hostname="suporte-OptiPlex-3050" time="0.019">
-  <properties/>
-  <testcase name="#add chore &gt; When the chore already exists &gt; throw an exception" classname="service.ChoreServiceTest" time="0.019"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
